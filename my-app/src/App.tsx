@@ -8,8 +8,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload. 
-          PULL REQUEST TEST
+          Edit <code>src/App.tsx</code> and save to reload.
+        </p>
+        <p>
+          Test Change!
         </p>
         <a
           className="App-link"
